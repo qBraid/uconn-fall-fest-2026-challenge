@@ -55,9 +55,6 @@ uconn-fall-fest-2026-challenge/
 ├── starter_notebook.ipynb                 the puzzle, the classical baseline, the cost Hamiltonian, and a QAOA warm-up on SV1
 ├── requirements.txt                       Python packages for running locally
 ├── LICENSE                                Apache-2.0
-├── assets/
-│   ├── instant-insanity-light.gif         the animation above, light theme
-│   └── instant-insanity-dark.gif          the animation above, dark theme
 └── resources/
     ├── 01_qiskit_refresher.ipynb          circuits, measurement, parameters, Pauli operators, transpiling
     ├── 02_qbraid_sdk.ipynb                qBraid providers, devices, jobs, the transpiler, cost discipline
